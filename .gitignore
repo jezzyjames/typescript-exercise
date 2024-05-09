@@ -2,6 +2,10 @@
 
 #################### Node.gitignore ####################
 
+# Ignore package lock and package JSON files
+package-lock.json
+package.json
+
 # Logs
 logs
 *.log
